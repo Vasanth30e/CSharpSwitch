@@ -1,0 +1,8 @@
+D:\Training\C#\Day 2\ConAppSwitch\ConAppSwitch\bin\Debug\ConAppSwitch.exe.config
+D:\Training\C#\Day 2\ConAppSwitch\ConAppSwitch\bin\Debug\ConAppSwitch.exe
+D:\Training\C#\Day 2\ConAppSwitch\ConAppSwitch\bin\Debug\ConAppSwitch.pdb
+D:\Training\C#\Day 2\ConAppSwitch\ConAppSwitch\obj\Debug\ConAppSwitch.csproj.AssemblyReference.cache
+D:\Training\C#\Day 2\ConAppSwitch\ConAppSwitch\obj\Debug\ConAppSwitch.csproj.SuggestedBindingRedirects.cache
+D:\Training\C#\Day 2\ConAppSwitch\ConAppSwitch\obj\Debug\ConAppSwitch.csproj.CoreCompileInputs.cache
+D:\Training\C#\Day 2\ConAppSwitch\ConAppSwitch\obj\Debug\ConAppSwitch.exe
+D:\Training\C#\Day 2\ConAppSwitch\ConAppSwitch\obj\Debug\ConAppSwitch.pdb
